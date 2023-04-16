@@ -5,8 +5,8 @@ Oxygen Running Status Checker
 
 To run the program
 
-1.install OpenCv to the system  <Type pip install opencv-python in Command Prompt.>
-2.install Vonage API            <Type pip install vonage in the Command Prompt.>
+1.install OpenCv to the system  /Type pip install opencv-python in Command Prompt./
+2.install Vonage API            /<Type pip install vonage in the Command Prompt./
 3.Connect the phone as a Camera using Droidcam or any other software.
 
 4.Run the Program
